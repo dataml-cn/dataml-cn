@@ -23,7 +23,6 @@ Some classic AI Algorithm implemented by myself.
    
 ## :call_me_hand: Connect with me
 [![xinshu@live.com](https://img.shields.io/badge/xinshu@live.com%20-%23168DE2.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:xinshu@live.com) 
-![weixin](https://img.shields.io/badge/wechat%20-%232CA5E0.svg?&style=for-the-badge&logo=wechat&logoColor=white) 
 
 ## :link: Other links
 [![docker hub](https://img.shields.io/badge/Docker%20Hub%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/upagge)
