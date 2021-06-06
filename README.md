@@ -21,7 +21,7 @@ TODO
 ### [Play Ground](https://github.com/dataml-cn/playground)
 Some classic AI Algorithm implemented by myself.
 
-### [uBlogger](https://github.com/dataml-cn/uBlogger)
+### [youBlogger](https://github.com/dataml-cn/uBlogger)
 This is a template for a static HUGO site generator. I use it for my blog and decided to share my experience with others. This is my blog: [blog.dataml.cn](http://blog.dataml.cn), in which I write about development, DevOps, AI Algorithms. 
    
 ## :call_me_hand: Connect with me
