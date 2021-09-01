@@ -12,14 +12,14 @@
 
 ## :hankey: My pet-projects
 
-### [KBQA](https://github.com/dataml-cn/KBQA)
-A project that allow you to quickly create bot. Also based on abstract projects, you can add a project to any other social network with the ability to create bots. I have been writing this project for as long as I can remember:).
+// ### [KBQA](https://github.com/dataml-cn/KBQA)
+// A project that allow you to quickly create bot. Also based on abstract projects, you can add a project to any other social network with the ability to create bots. I have been // writing this project for as long as I can remember:).
 
-### [Information Extraction](https://github.com/dataml-cn/KBQA/information-extract)
-TODO
+// ### [Information Extraction](https://github.com/dataml-cn/KBQA/information-extract)
+// TODO
 
-### [Play Ground](https://github.com/dataml-cn/playground)
-Some classic AI Algorithm implemented by myself.
+### [Algorithm Pattern](https://github.com/dataml-cn/algorithm-pattern-python)
+科学的刷题, 原[repo](https://github.com/greyireland/algorithm-pattern)用go语言实现, 这里准备用python实现
 
 ### [youBlogger](https://github.com/dataml-cn/uBlogger)
 This is a template for a static HUGO site generator. I use it for my blog and decided to share my experience with others. This is my blog: [blog.dataml.cn](http://blog.dataml.cn), in which I write about development, DevOps, AI Algorithms. 
