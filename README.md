@@ -1,8 +1,8 @@
 ### :wave: I'm Wang Zhuang
-* ✨ I live in Nanjing, China
-* :man_technologist: I'm currently working in [ZTE](https://www.zte.com.cn/).
-* :pencil2: I write articles on my blog [dataml.cn](https://blog.dataml.cn/).
-* :robot: Most of the time I'm writing on Python.
+* I live in Nanjing, China
+* I'm currently working in [ZTE](https://www.zte.com.cn/).
+* I write articles on my blog [dataml.cn](https://blog.dataml.cn/).
+* Most of the time I'm writing on Python.
 * :email: You can shoot me an email at <xinshu@live.com>
 
 ## :hammer_and_wrench: My fancy badge area
